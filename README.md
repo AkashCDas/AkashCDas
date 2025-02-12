@@ -1,4 +1,4 @@
-Hey, I'm @AkashCDas!
+Hey, I'm Akash Chondrow Das!
 
 About Me
 - Passionate about map designing
