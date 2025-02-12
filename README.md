@@ -10,11 +10,10 @@
 - I hate **maths**  
 
 ## Connect With Me  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/c/yourchannel)  
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/yourhandle)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/yourserver)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://chat.whatsapp.com/yourgroup)  
-
+[![YouTube](https://img.shields.io/badge/YouTube-343541?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/c/yourchannel)  
+[![X](https://img.shields.io/badge/X-343541?logo=x&logoColor=white&style=flat-square)](https://twitter.com/yourhandle)  
+[![Discord](https://img.shields.io/badge/Discord-343541?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/yourserver)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-343541?logo=whatsapp&logoColor=white&style=flat-square)](https://chat.whatsapp.com/yourgroup)  
 
 
 <!---
