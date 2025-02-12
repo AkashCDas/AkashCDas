@@ -1,15 +1,4 @@
-Hey, I'm Akash Chondrow Das!
-
-About Me
-- Passionate about map designing
-- I run a YouTube channel showcasing Pokémon ROM Hacks
-- Skilled in Photoshop & Illustrator
-- Learning Python
-
-Fun Fact
-- I hate maths
-
-# Akash  
+# Hey, I'm Akash Chondrow Das!
 
 ## About Me  
 - Passionate about **map designing**  
