@@ -10,10 +10,12 @@
 - I hate **maths**  
 
 ## Connect With Me  
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/your_channel_id?label=Subscribers&logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/c/astartgaming)  
-[![X Followers](https://img.shields.io/twitter/follow/yourhandle?label=Followers&logo=x&logoColor=white&style=flat-square)](https://twitter.com/AStartGaming)  
-[![Discord Server](https://img.shields.io/discord/your_server_id?label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/yourserver)  
-[![WhatsApp Group](https://img.shields.io/badge/Join-WhatsApp%20Group-000000?logo=whatsapp&logoColor=white&style=flat-square)](https://chat.whatsapp.com/yourgroup)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/c/yourchannel)  
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/yourhandle)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/yourserver)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://chat.whatsapp.com/yourgroup)  
+
+
 
 <!---
 AkashCDas/AkashCDas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
